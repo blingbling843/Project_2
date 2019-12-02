@@ -1,0 +1,76 @@
+
+/* @media (min-width: 576px) { ... } */
+
+/* Medium devices (tablets, 768px and up) */
+ /* @media only screen and (max-width: 1000px) {  
+    
+}  */
+
+/* Large devices (desktops, 992px and up) 
+@media (min-width: 992px) { 
+}*/
+
+/* Extra large devices (large desktops, 1200px and up) 
+@media (min-width: 1200px) { ... }*/
+
+
+
+/* Extra small devices (portrait phones, less than 576px) */
+/* @media only screen and (max-width: 576px) {
+    body{
+        background-color: rgb(51, 74, 94);
+} */
+
+/* Small devices (landscape phones, less than 768px) 
+@media only screen and (max-width: 767.98px) {
+    body{
+        background-color: rgb(238, 255, 0);
+}*/
+
+ /* Medium devices (tablets, less than 992px)  */
+/* @media only screen and (max-width: 991.98px) {
+    body{
+        background-color: rgb(255, 0, 98);
+} */
+
+/* Large devices (desktops, less than 1200px)
+@media only screen and (max-width: 1199.98px) {
+    body{
+        background-color: rgb(55, 0, 255);
+} */
+
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+    body{
+        background-color: rgb(46, 9, 105);
+    }       
+ }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px){ 
+    body{
+        background-color: rgb(11, 172, 51);}
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px){ 
+    body{
+        background-color: rgb(194, 52, 9);       
+    }
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px){ 
+    body{
+        background-color: rgb(94, 93, 51);  } 
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { 
+    body{
+        background-color:rgb(51, 74, 94);
+    }
+ }
+
